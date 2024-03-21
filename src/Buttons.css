@@ -1,0 +1,19 @@
+.Buttons {
+    margin-top: 20px;
+}
+
+.Buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.add {
+    background-color: #6ed86d;
+}
+
+.minus {
+    background-color: #d87a6d;
+}
